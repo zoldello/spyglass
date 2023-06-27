@@ -7,7 +7,7 @@ on:
       - closed
   push:
     branches:
-      - master
+      - test_branch
 
 permissions:
   contents: write
